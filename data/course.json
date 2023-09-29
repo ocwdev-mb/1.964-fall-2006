@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ]
+  ],
+  "legacy_uid": "cbca1f77-31c1-534d-c605-9e90efc9f27d",
+  "instructors": {
+    "content": [
+      "eb648561-b1c0-ac36-ac77-5484f32b5c7b",
+      "e06aab75-da06-17de-873b-10b710dc39bd",
+      "655d9584-f056-5cd8-7b1b-f8b70b708d53",
+      "427e7685-dd5f-0ad4-fa46-f74282c43b58"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "74a3407b-35f3-8848-5c9c-87952957e353",
+    "website": "1-964-design-for-sustainability-fall-2006"
+  },
+  "course_title": "Design for Sustainability",
+  "course_description": "The course considers the growing popularity of sustainability and its implications for the practice of engineering, particularly for the built environment. Two particular methodologies are featured: life cycle assessment (LCA) and Leadership in Energy and Environmental Design (LEED). The fundamentals of each approach will be presented. Specific topics covered include water and wastewater management, energy use, material selection, and construction.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.964",
+  "course_image_thumbnail": {
+    "content": "c94d12c9-bc54-70e2-c66a-a09ee253ea99",
+    "website": "1-964-design-for-sustainability-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "8e2e5de1-0bd0-44c6-8f91-9ebeaf393a63",
+  "site_short_id": "1.964-fall-2006",
+  "title": "Course Metadata"
+}
